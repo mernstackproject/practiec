@@ -1,0 +1,17 @@
+{
+  "name": "practiec",
+  "version": "1.0.0",
+  "description": "<h1>hello this is my practice session</h1>\r <h2>hello sir how are u</h2>\r <h3>hy</h3>\r <h4>fdfsfsdfsfsfs</h4>\r <h1>hello<h1>\r <h1>hello<h1>\r <h1>hello<h1>\r <h1>hello<h1>\r <h1>hello<h1>\r <h1>hello<h1>\r <h1>hello here shyam</h1>\r <h1>hy123</h1>\r <h1>hy123</h1>\r <h1>hy123</h1>\r <h1>hy123</h1>\r <h1>hy123</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.7.0"
+  }
+}
